@@ -1,9 +1,11 @@
 <h1 align="center">Salut 👋 Bienvenue sur mon Github </h1>  
 <h4 align="center">Toujours en quête d'apprentissage et de connaissances dans le domaine de l'IT, je suis passionné par ce domaine et les métiers qui l'entourent. Diplomé en administration système & réseaux puis en développement, j'aime l'aspect technique d'un projet et le challenge intellectuel qu'il représente.</h4>  
-  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namejess&label=Profile%20views&color=0e75b6&style=flat" alt="namejess" /> </p>
+
+
 [![Thanks - readme-generator](https://img.shields.io/badge/Thanks-readme--generator-2ea44f)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-  
+
 ##  About  
 
 - 😊 Je m'appelle Jessy DROUIN, Namejess sur les Internets
